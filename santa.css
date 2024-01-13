@@ -1,0 +1,54 @@
+body{
+    background-color: beige;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+
+}
+.xmas, .tree{
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.tree>div{
+    box-shadow: 10px 10px 20px 0px #1f470082;
+
+}
+.tree1{
+    width: 60px;
+    height: 50px;
+    background-color: #32776a;
+}
+.tree2{
+    width: 120px;
+    height: 50px;
+    background-color: #268b4c;
+}
+.tree3{
+    width: 180px;
+    height: 50px;
+    background-color: #32776a;
+}.tree4{
+    width: 240px;
+    height: 50px;
+    background-color: #32776a;
+}.tree5{
+    width: 300px;
+    height: 50px;
+    background-color: #32776a;
+}.tree6{
+    width: 360px;
+    height: 50px;
+    background-color: #32776a;
+}.tree7{
+    width: 420px;
+    height: 50px;
+    background-color: #32776a;
+}.tree8{
+    width: 480px;
+    height: 50px;
+    background-color: #32776a;
+}
